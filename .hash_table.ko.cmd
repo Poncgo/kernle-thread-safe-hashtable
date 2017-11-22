@@ -1,0 +1,1 @@
+cmd_/home/z/kernel/kernle-thread-safe-hashtable/hash_table.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/z/kernel/kernle-thread-safe-hashtable/hash_table.ko /home/z/kernel/kernle-thread-safe-hashtable/hash_table.o /home/z/kernel/kernle-thread-safe-hashtable/hash_table.mod.o

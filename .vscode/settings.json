@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "slab.h": "c",
+        "list.h": "c",
+        "init.h": "c",
+        "module.h": "c"
+    }
+}
